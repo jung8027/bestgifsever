@@ -1,0 +1,68 @@
+body{
+/*	background-color: forestgreen;*/
+	background-image: url(./gifs/ZhGEqAP.jpg);
+	background-size: cover;
+}
+
+html, body{
+	padding: 10px;
+}
+
+img{
+	height: 295px;
+	width: 395px;
+	/*border-radius: 20px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: white;*/
+	/*margin:5px;*/
+	/*align-items: center;*/
+	/*border: 2px solid white;*/
+
+}
+
+.row{
+	display: inline-block;
+	margin: auto;
+	align-items: center;
+}
+
+
+#picone { 
+	border: 5px solid white;
+	width: auto;
+	height: auto;
+	/*padding: 10px;*/
+	border-radius: 10px;
+	margin: 5px;
+	padding-left: 0px;
+	padding-right: 0px;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
+#pictwo {
+	border: 5px solid white;
+	width: auto;
+	height: auto;
+	/*padding: 10px;*/
+	border-radius: 10px;
+	margin: 5px;
+	padding-left: 0px;
+	padding-right: 0px;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
+
+#picthree {
+	border: 5px solid white;
+	width: auto;
+	height: auto;
+	/*padding: 10px;*/
+	border-radius: 10px;
+	margin: 5px;
+	padding-left: 0px;
+	padding-right: 0px;
+	overflow-x: hidden;
+	overflow-y: hidden;
+}
